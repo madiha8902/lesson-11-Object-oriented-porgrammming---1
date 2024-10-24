@@ -8,6 +8,7 @@
 # obj=student()
 # obj.intro()
 # obj.details()
+Activity 2
 
 class animals:
     color="grey,white,black"
